@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Opio-fragrances/static/css/main.d796544d.css",
-    "main.js": "/Opio-fragrances/static/js/main.44bc097c.js",
+    "main.js": "/Opio-fragrances/static/js/main.621de55e.js",
     "static/js/563.4f33d95d.chunk.js": "/Opio-fragrances/static/js/563.4f33d95d.chunk.js",
     "static/media/PinkGorgeous.jpg": "/Opio-fragrances/static/media/PinkGorgeous.7ac8845a0197f28b1a1c.jpg",
     "static/media/contact-us-page-image.jpg": "/Opio-fragrances/static/media/contact-us-page-image.94024bce9615e1afee42.jpg",
@@ -40,11 +40,11 @@
     "static/media/fa-v4compatibility.woff2": "/Opio-fragrances/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/Opio-fragrances/index.html",
     "main.d796544d.css.map": "/Opio-fragrances/static/css/main.d796544d.css.map",
-    "main.44bc097c.js.map": "/Opio-fragrances/static/js/main.44bc097c.js.map",
+    "main.621de55e.js.map": "/Opio-fragrances/static/js/main.621de55e.js.map",
     "563.4f33d95d.chunk.js.map": "/Opio-fragrances/static/js/563.4f33d95d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d796544d.css",
-    "static/js/main.44bc097c.js"
+    "static/js/main.621de55e.js"
   ]
 }
