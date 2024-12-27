@@ -15,7 +15,7 @@ const App = () => {
       <Router>
       <Navbar />
       <Routes>
-      <Route path="/" element={<Home />} /> 
+      <Route path="/Opio-fragrances" element={<Home />} /> 
       <Route path="/Contact-page" element={<Contact />} /> 
       <Route path="/Section" element={<Section />} /> 
       </Routes>
